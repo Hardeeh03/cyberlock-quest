@@ -1,8 +1,8 @@
 # CyberLock Quest
 
-An escape-room style cybersecurity game built with Pygame.
+CyberLock Quest is a Pygame-based, escape-room style cybersecurity game. Players rotate through a 360-degree room, interact with objects, and solve multiple puzzles per level (password cracking, phishing detection, network log analysis, and social engineering decisions) to unlock the exit and progress through difficulty tiers.
 
-## Run
+## Access / Run
 
 ```powershell
 python -m pip install -r requirements.txt
