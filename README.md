@@ -8,13 +8,3 @@ CyberLock Quest is a Pygame-based, escape-room style cybersecurity game. Players
 python -m pip install -r requirements.txt
 python cyberlock_quest.py
 ```
-
-## Daily Maintenance Log
-
-- 2026-05-04 09:33:26 UTC: automated maintenance check-in for `Hardeeh03/cyberlock-quest`.
-- 2026-05-09 08:54:32 UTC: automated maintenance check-in for `Hardeeh03/cyberlock-quest`.
-- 2026-05-14 09:41:21 UTC: automated maintenance check-in for `Hardeeh03/cyberlock-quest`.
-- 2026-05-19 10:45:45 UTC: automated maintenance check-in for `Hardeeh03/cyberlock-quest`.
-- 2026-05-24 09:26:52 UTC: automated maintenance check-in for `Hardeeh03/cyberlock-quest`.
-- 2026-05-29 10:53:57 UTC: automated maintenance check-in for `Hardeeh03/cyberlock-quest`.
-- 2026-06-03 12:15:12 UTC: automated maintenance check-in for `Hardeeh03/cyberlock-quest`.
